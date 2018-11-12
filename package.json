@@ -1,0 +1,32 @@
+{
+  "name": "pervslovo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metascraper/helpers": "^4.5.5",
+    "d3": "^5.7.0",
+    "got": "^9.3.2",
+    "jsdom": "^13.0.0",
+    "metadog": "0.0.9",
+    "metascraper": "^4.5.5",
+    "metascraper-author": "^4.5.5",
+    "metascraper-date": "^4.5.5",
+    "metascraper-description": "^4.5.5",
+    "mocha": "^5.2.0",
+    "open-graph-scraper": "^3.5.1",
+    "osmosis": "^1.1.8",
+    "parsit": "^0.1.3",
+    "replaceall": "^0.1.6",
+    "schema-org-parser-json-ld": "^1.2.2",
+    "semantic-schema-parser": "^0.1.0",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
